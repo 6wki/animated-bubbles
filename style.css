@@ -256,10 +256,8 @@ footer {
 }
 
 .footerLogo {
-    position: absolute;
     width: 150px;
-    top: 50px;
-    left: 50px;
+    margin-bottom: 20px;
     filter: invert(97%) sepia(0%) saturate(7498%) hue-rotate(130deg) brightness(204%) contrast(0%);
 }
 
@@ -285,7 +283,6 @@ footer * {
 }
 
 .contact {
-    justify-content: center;
     width: 60%;
 }
 
@@ -333,7 +330,7 @@ footer .container {
 
     .hero {
         width: 100%;
-        height: 120vh;
+        height: 100vh;
         padding: 0 5rem;
         overflow: hidden;
     }
