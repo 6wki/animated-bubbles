@@ -434,12 +434,6 @@ footer .container {
         margin-right: 10px;
     }
 
-    .footerLogo {
-        left: 50%;
-        transform: translateX(-50%);
-        top: 100px;
-    }
-
     footer .button {
         width: 80%;
     }
